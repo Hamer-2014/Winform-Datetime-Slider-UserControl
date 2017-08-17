@@ -1,0 +1,14 @@
+D:\projects\TestControl\TestControl\bin\Debug\RangeSlider.dll
+D:\projects\TestControl\TestControl\bin\Debug\RangeSlider.pdb
+D:\projects\TestControl\TestControl\obj\Debug\RangeSlider.csprojResolveAssemblyReference.cache
+D:\projects\TestControl\TestControl\obj\Debug\CustomRangeSelectorControl.RangeSelectorControl.resources
+D:\projects\TestControl\TestControl\obj\Debug\RangeSlider.csproj.GenerateResource.Cache
+D:\projects\TestControl\TestControl\obj\Debug\RangeSlider.dll
+D:\projects\TestControl\TestControl\obj\Debug\RangeSlider.pdb
+D:\projects\SelfDemo\TestControl\TestControl\bin\Debug\RangeSlider.dll
+D:\projects\SelfDemo\TestControl\TestControl\bin\Debug\RangeSlider.pdb
+D:\projects\SelfDemo\TestControl\TestControl\obj\Debug\RangeSlider.csprojResolveAssemblyReference.cache
+D:\projects\SelfDemo\TestControl\TestControl\obj\Debug\CustomRangeSelectorControl.RangeSelectorControl.resources
+D:\projects\SelfDemo\TestControl\TestControl\obj\Debug\RangeSlider.csproj.GenerateResource.Cache
+D:\projects\SelfDemo\TestControl\TestControl\obj\Debug\RangeSlider.dll
+D:\projects\SelfDemo\TestControl\TestControl\obj\Debug\RangeSlider.pdb
